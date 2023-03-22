@@ -1,0 +1,23 @@
+# ninja log v5
+70	173	1679515231289076365	main	a7bc814f23a1f0de
+20	652	1679514219420042883	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_window.m.o	ec86419cace3471d
+8	70	1679515231185389176	CMakeFiles/main.dir/main.cpp.o	419e5eef6118048c
+247	283	1679512051360395503	OpenGLCourseApp	3e95a4b794015b0f
+17	349	1679514377451411470	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/egl_context.c.o	bfb0cfaaf8aa4fa1
+0	96	1679515283637587398	build.ninja	368b3eac7138bf88
+2	247	1679512051322870016	CMakeFiles/OpenGLCourseApp.dir/main.cpp.o	c26548ed63f25a22
+1	360	1679514071908588254	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/vulkan.c.o	10339928ffcc5680
+17	341	1679514377442613357	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_time.c.o	eec1ab3341ac52eb
+0	362	1679514071910541075	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/context.c.o	22c0e6da41718296
+0	376	1679514071925936107	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/input.c.o	956b649274c602bd
+19	627	1679514219395386615	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_init.m.o	a7562572bc19ed6d
+0	362	1679514071909299208	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/init.c.o	93532ec17f209fc1
+19	624	1679514219390820810	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o	e9ff54f121b80c5a
+8	30	1679514411186602000	lib/glfw-3.3.8/src/libglfw3.a	38b22064e05fa961
+17	342	1679514377443983932	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/posix_thread.c.o	b9a01b7557b76ca2
+17	551	1679514377651589800	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/nsgl_context.m.o	7e1fe9db966c10c6
+20	626	1679514219392629007	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o	4c93c53f920dead4
+19	367	1679514219135845354	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/window.c.o	25320dc3caa243d3
+18	345	1679514377447403661	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/osmesa_context.c.o	7fe610ab8bc590ab
+1	363	1679514071910529284	lib/glfw-3.3.8/src/CMakeFiles/glfw.dir/monitor.c.o	f68822cee8e1ba1a
+20	458	1679514777233227392	lib/glew-2.2.0/build/cmake/CMakeFiles/glew.dir/__/__/src/glew.c.o	78bb96ba0962963c
